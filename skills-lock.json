@@ -29,6 +29,13 @@
       "skillPath": "skills/domain-modeling/SKILL.md",
       "computedHash": "370e8d39789582afe04ca60449240431ca11e57ec2bb18ef245ee984a671e525"
     },
+    "github-pr": {
+      "source": "SystemFiles/skills",
+      "commit": "54396843a5bc924548378fc8598de43e0a5be549",
+      "sourceType": "github",
+      "skillPath": "skills/github-pr/SKILL.md",
+      "computedHash": "5c90fcc897634b4a99fa714ef255a84594b2bc56501bd76b71566d29864b56ec"
+    },
     "write-adr": {
       "source": "SystemFiles/skills",
       "commit": "54396843a5bc924548378fc8598de43e0a5be549",
