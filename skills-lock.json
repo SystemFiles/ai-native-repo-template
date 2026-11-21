@@ -31,8 +31,7 @@
     },
     "write-adr": {
       "source": "SystemFiles/skills",
-      "ref": "agent/write-adr",
-      "commit": "5767bde918877417c4cc985fd6dd29dc0f015d5e",
+      "commit": "54396843a5bc924548378fc8598de43e0a5be549",
       "sourceType": "github",
       "skillPath": "skills/write-adr/SKILL.md",
       "computedHash": "6e9b3663542144584ad2909937760f5004503bbb89aa9bdfdf1c53326f5aef3f"
