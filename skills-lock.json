@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "skills": {
+    "clean-code": {
+      "source": "wondelai/skills",
+      "commit": "c5265583b1a9740f06831e1d3e89b35bba3eb430",
+      "sourceType": "github",
+      "skillPath": "clean-code/SKILL.md",
+      "computedHash": "05c09cd9475e281ef08ffcc11571c50e8cb5fabfa8d6bcdb96ab2d0dbb73a61e"
+    },
+    "codebase-design": {
+      "source": "SystemFiles/skills",
+      "commit": "8d62782af9625fbb4a3268330088d2fa6fd309a4",
+      "sourceType": "github",
+      "skillPath": "skills/codebase-design/SKILL.md",
+      "computedHash": "264baddee12e6f8f6d923a2f032fa8e51bbde937e2628caa65cc79432b2e477f"
+    },
+    "documentation": {
+      "source": "SystemFiles/skills",
+      "commit": "8d62782af9625fbb4a3268330088d2fa6fd309a4",
+      "sourceType": "github",
+      "skillPath": "skills/documentation/SKILL.md",
+      "computedHash": "77f3c54aff42a3763a5eac719f0542f3ff2bd615b1a009d2602e1472b3e1b08a"
+    },
+    "domain-modeling": {
+      "source": "SystemFiles/skills",
+      "commit": "8d62782af9625fbb4a3268330088d2fa6fd309a4",
+      "sourceType": "github",
+      "skillPath": "skills/domain-modeling/SKILL.md",
+      "computedHash": "370e8d39789582afe04ca60449240431ca11e57ec2bb18ef245ee984a671e525"
+    },
+    "write-adr": {
+      "source": "SystemFiles/skills",
+      "ref": "agent/write-adr",
+      "commit": "5767bde918877417c4cc985fd6dd29dc0f015d5e",
+      "sourceType": "github",
+      "skillPath": "skills/write-adr/SKILL.md",
+      "computedHash": "6e9b3663542144584ad2909937760f5004503bbb89aa9bdfdf1c53326f5aef3f"
+    }
+  }
+}
